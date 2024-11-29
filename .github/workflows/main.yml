@@ -4,7 +4,7 @@ on:
       - master
 
 jobs:
-  build:
+  used-secrets:
     runs-on: ubuntu-latest
 
     steps:
